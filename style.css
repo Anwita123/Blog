@@ -1,0 +1,20 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDIV
+{
+
+    border: 1px soild lightgrey;
+
+}
+.travel_mainDIV img
+{
+
+width: 100;
+
+}
+.travelmainDIV h5 , .travel_mainDIV p
+{
+    margin:20px;
+}
